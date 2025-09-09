@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="../img/icon.png" alt="Ethan Glenn Development logo" width="100" height="100" style="border-radius: 50%;" />
     <h1>Welcome :wave:</h1>
 </div>
 
